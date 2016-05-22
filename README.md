@@ -11,6 +11,10 @@
   url: https://www.osha.gov/dep/fatcat/dep_fatcat_archive.html
 - title: CDC Mortality Data
   url: http://www.cdc.gov/nchs/nvss/deaths.htm
+  related:
+    - http://www.cdc.gov/mmwr/preview/mmwrhtml/00056796.htm
+- title: CDC Atlas of United States Mortality
+  url: http://www.cdc.gov/nchs/products/other/atlas/atlas.htm
 - title: CDC Compressed Mortality File
   url: http://www.cdc.gov/nchs/data_access/cmf.htm
 - title: WHO Mortality data
@@ -136,6 +140,9 @@
   url: http://www.slate.com/articles/news_and_politics/crime/2012/12/gun_death_tally_every_american_gun_death_since_newtown_sandy_hook_shooting.html
 
 
+- title: Underreporting of justifiable homicides committed by police officers in the United States, 1976-1998.
+  url: http://www.ncbi.nlm.nih.gov/pubmed/12835195
+
 - url: https://numeracy.co/reports/policeviolence
   title: Comparing Police Violence Data
   related:
@@ -176,6 +183,9 @@ Justifiable homicides removed from homicide tallies - http://www.nytimes.com/201
 
 http://blogs.wsj.com/numbers/why-the-data-on-justifiable-homicide-just-wont-do-1725/
 
+
+- Trends and patterns of justifiable homicide: a comparative analysis.
+ http://www.ncbi.nlm.nih.gov/pubmed/1308440
 
 
 
@@ -236,6 +246,10 @@ http://articles.baltimoresun.com/2000-12-30/news/0012300179_1_homicide-detective
 http://www.nytimes.com/2013/09/29/us/children-and-guns-the-hidden-toll.html
 
 > A New York Times review of hundreds of child firearm deaths found that accidental shootings occurred roughly twice as often as the records indicate, because of idiosyncrasies in how such deaths are classified by the authorities. The killings of Lucas, Cassie and Alex, for instance, were not recorded as accidents. Nor were more than half of the 259 accidental firearm deaths of children under age 15 identified by The Times in eight states where records were available.
+
+http://www.ncbi.nlm.nih.gov/pubmed/12671106
+
+> The incidence of unintentional pediatric firearm deaths is significantly underreported by the Miami-Dade County ME when the classification of "accidental" firearm death is used. Reviewing the manner of death classification criteria or establishing an intent code on official death documentation is recommended. Furthermore, clinicians should be aware that the true incidence of unintentional gun death may be higher than that reported as accidental.
 
 
 
@@ -300,7 +314,18 @@ Spikes, ebbs, and flow in interest:
 
 http://www.washingtonpost.com/wp-srv/local/daily/april99/pulitzer13.htm
 
+------------
 
+
+
+## What does "median mortality of eight months" signify in our vernacular?
+
+https://www.edwardtufte.com/tufte/gould
+
+>The problem may be briefly stated: What does "median mortality of eight months" signify in our vernacular? I suspect that most people, without training in statistics, would read such a statement as "I will probably be dead in eight months" - the very conclusion that must be avoided, since it isn't so, and since attitude matters so much.
+
+
+Data in sentences: http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000K4&topic_id=1
 
 ----------
 
@@ -373,6 +398,14 @@ Who gets an obit?
 - https://twitter.com/nytobits
 - http://www.slate.com/blogs/xx_factor/2014/05/09/gender_imbalance_in_obituaries_the_new_york_times_obituary_page_favors_men.html
 
+http://publiceditor.blogs.nytimes.com/2014/05/12/still-talking-about-it-where-are-the-women/
+
+http://www.nytimes.com/2012/04/15/opinion/sunday/someone-dies-but-that-is-only-the-beginning.html
+
+>
+Here’s one small example of why: Women who write are more likely, according to the study, to quote at least some women in their articles. That diversity of outlook, with its range of voices, is worth pursuing because it better reflects the world. Or how about the number of women in Times obituaries? The poet and feminist Lynn Melnick complained on Twitter last week that only seven of the past 66 obituaries were on women. (My count yielded similar numbers.) Obituaries are chosen on the basis of the newsworthiness of their subjects; but that is subjective. It’s not outrageous to wonder what might change if more women were involved in all aspects of their selection and presentation.
+
+
 ----------
 
 
@@ -395,7 +428,19 @@ http://psc.dss.ucdavis.edu/rainbow/HTML/facts_cameron_obit.html
 
 ------
 
-Prepping obituaries 
+Cache invalidation -- Prepping obituaries 
+
+
+http://www.nytimes.com/2015/10/08/insider/when-death-comes-and-the-obituary-quickly-follows.html
+
+> His death was tremendously important news. Within an hour of Mr. Cook’s announcement, The Times had a 3,500-word obituary on its website, by John Markoff, with Steve Lohr. Both were on the team that later won a Pulitzer Prize for its “penetrating look into business practices by Apple and other technology companies that illustrates the darker side of a changing global economy.”
+
+
+What appeared to readers as if it happened in minutes was a product of work that began Aug. 1, 2007, when Mr. Markoff sketched out the first words of his obit:
+
+> Steven P. Jobs, a child of Silicon Valley and a college dropout who reshaped the world’s culture around personal computing and digital media, died X and the age of X. The cause of death was X according to X.
+
+
 
 
 http://www.capitalnewyork.com/article/media/2014/06/8546269/digital-age-obituary
@@ -416,6 +461,15 @@ http://newsdiffs.org/article-history/www.nytimes.com/2016/04/22/arts/music/princ
 http://longform.org/stories/mr-bad-news
 
 > There are 2,000 advance obituaries in the Times's morgue, Whitman knows, but many of them, such as the ones on J. Edgar Hoover and Charles Lindbergh and Walter Winchell, were written long ago and now require updating. Recently, when President Johnson was in the hospital for gallbladder surgery, his advance obituary was brought up-to-the-minute; so was Pope Paul’s before his trip to New York; so was Joseph P. Kennedy’s. For an obituary writer there is nothing worse than to have a world figure die before his obituary is up-to-date; it can be a harrowing experience, Whitman knows, requiring that the writer become an instant historian, assessing in a few hours the dead man’s life with lucidity, accuracy, and objectivity.
+
+http://www.nytimes.com/2016/02/21/public-editor/antonin-scalia-coverage-margaret-sullivan-public-editor.html
+
+> Adam Liptak’s fine obituary for Justice Scalia, written about two years ago, was a key element in the coverage, but it didn’t appear in its entirety right away. A few paragraphs posted with the news alert. But even though the 4,700-word obit was essentially ready, because of the need for updates, it was about an hour before a full version was posted...Still, having a prepared obituary does not do much good for print readers if a prominent figure happens to die at the wrong time of day, and some subscribers were unhappy, among them Don Noel of Connecticut, a former newspaper editor who wrote to register his dissatisfaction...Given the fact that a lengthy obituary had already been prepared, it was unfortunate that it took so long to post it in full. And while early print deadlines for the Sunday edition are a fact of life, it’s regrettable that many print subscribers had no whiff of this huge news in their Sunday paper.
+
+A question of cache invalidation: How much has to be changed about an obit that was written 2 years ago? How much had been written about Scalia since then?
+
+http://www.nytimes.com/2015/10/08/insider/when-death-comes-and-the-obituary-quickly-follows.html
+
 
 
 
@@ -446,12 +500,32 @@ http://www.nytimes.com/1992/09/30/nyregion/court-computer-says-all-hartford-is-d
 
 ------
 
-Medical errors and death
+# Medical errors and death
+
+http://www.bmj.com/content/353/bmj.i2139
+
+Without medical error being a category of death, they didn't show up in death certificates.
+
+https://www.propublica.org/article/study-urges-cdc-to-revise-count-of-deaths-from-medical-error
+
+> The Centers for Disease Control instruct doctors to list only medical conditions as the underlying cause of death on death certificates, a definition that excludes medical errors. A recent study by researchers at Johns Hopkins says that if medical errors were accurately documented, they would rank above suicide, diabetes and Alzheimer's disease as a cause of death.
+
+https://www.propublica.org/documents/item/2822345-Hopkins-CDC-letter.html
 
 http://well.blogs.nytimes.com/2016/05/03/medical-errors-may-cause-over-250000-deaths-a-year/
 
 http://www.nytimes.com/2015/10/20/health/a-new-life-or-death-approach-to-funding-heart-research.html
 
+-----
+
+# Looking at the forms of deaths and death certificates
+
+http://www.cdc.gov/nchs/nvss/writing_cod_statements.htm
+
+http://www.cdc.gov/nchs/nvss/death_certification_problems.htm
+
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/273320/5363.pdf
 
 
 ------
@@ -590,3 +664,100 @@ http://www.theatlantic.com/magazine/archive/2007/04/on-baltimores-mean-streets/3
 ## Why some homicides go unsolved
 
 [During the past 18 months, there have been 33 killings in the unincorporated areas of south Sacramento, and arrests have been made in only 10 of the cases.](https://docs.google.com/file/d/0B6IBlUS1jXOuQmhleGgyNHJ2eE0/edit)
+
+
+
+
+# Mapping death
+
+http://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map
+http://blog.rtwilson.com/john-snows-famous-cholera-analysis-data-in-modern-gis-formats/
+
+
+---------
+
+# Surveillance, improvement of reporting systems
+
+The National Violent Death Reporting System: an exciting new tool for public health surveillance. http://www.ncbi.nlm.nih.gov/pubmed/17170168
+
+> The US does not have a unified system for surveillance of violent deaths. This report describes the National Violent Death Reporting System (NVDRS), a system for collecting data on all violent deaths (homicides, suicides, accidental firearms deaths, deaths of undetermined intent, and deaths from legal intervention, excluding legal executions) in participating states. The NVDRS centralizes data from many sources, providing a more comprehensive picture of violent deaths than would otherwise be available. The NVDRS collects data on victims, suspects, and circumstances related to the violent deaths. Currently, 17 US states participate in the NVDRS; the intention is for the NVDRS to become a truly national system, representing all 50 states, the District of Columbia, and the US territories. This report describes the history of the NVDRS, provides an overview of how the NVDRS functions, and describes future directions.
+
+A comparison of two surveillance systems for deaths related to violent injury. http://www.ncbi.nlm.nih.gov/pubmed/15691992
+
+
+
+
+http://static.googleusercontent.com/media/research.google.com/en//archive/papers/detecting-influenza-epidemics.pdf
+
+
+> Epidemics of seasonal influenza are a major public health concern, causing
+tens of millions of respiratory illnesses and 250,000 to 500,000 deaths
+worldwide each year
+
+
+http://research.google.com/pubs/pub37209.html
+
+>  Surveillance efforts have turned to modern data sources, such as Internet search queries, which have been shown to be effective for monitoring influenza-like illnesses. However, few have evaluated the utility of web search query data for other diseases, especially those of high morbidity and mortality or where a vaccine may not exist. In this study, we aimed to assess whether web search queries are a viable data source for the early detection and monitoring of dengue epidemics. 
+
+
+--------------
+
+# Suicide clusters
+
+http://www.cdc.gov/mmwr/preview/mmwrhtml/00001755.htm
+
+Newspaper coverage of suicide and initiation of suicide clusters in teenagers in the USA, 1988–96: a retrospective, population-based, case-control study http://thelancet.com/journals/lanpsy/article/PIIS2215-0366(14)70225-1/fulltext
+
+- http://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/
+- https://www.washingtonpost.com/news/morning-mix/wp/2016/02/16/cdc-investigates-why-so-many-high-school-students-in-wealthy-palo-alto-have-committed-suicide/
+- http://www.fairfaxcounty.gov/hd/suicide/
+
+> The deaths in the city constitute two recent “suicide clusters” (multiple suicides within a short time frame); there are an average of five in the entire country each year. Having two in the same city in less than a decade is extremely rare.
+
+
+
+Application of Scan Statistics to Detect Suicide Clusters in Australia http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0054168
+
+Teenage suicide cluster formation and contagion: implications for primary care
+ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1488851/
+
+Teenage suicides in northern Sweden: an interview study of investigating police officers. http://www.ncbi.nlm.nih.gov/pubmed/10875667
+
+Prevention of suicide and attempted suicide in Denmark. Epidemiological studies of suicide and intervention studies in selected risk groups. http://www.ncbi.nlm.nih.gov/pubmed/18208680
+
+Do schools differ in suicide risk? the influence of school and neighbourhood on attempted suicide, suicidal ideation and self-harm among secondary school pupils http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3280202/
+
+
+
+# Death and software design
+
+https://research.facebook.com/publications/legacy-contact-designing-and-implementing-stewardship-at-facebook/
+
+> While it might intuitively seem like Facebook should fulfill
+these kinds of requests, Facebook has no way of knowing
+what a deceased person would have wanted. Did that son
+want to be friends with his father on Facebook? And who
+gets to decide if a profile photo is or is not “appropriate?”
+These are choices that are made by account holders while
+they are alive, and Facebook respects those choices. In the
+absence of the deceased account holder, and given the
+changing needs around profiles post-mortem, we looked for
+ways to improve how Facebook supports grieving
+communities. 
+
+
+> An inherent challenge to any post-mortem system involves weighing improvements and changes against people’s established expectations of the feature, especially given that those who have died cannot update their settings or declare their preferences about an expanded set of functionality. How the privileges granted to legacy contacts should change over time and independent of the deceased is an open research question.
+
+
+Beyond the Grave: Facebook as a Site for the Expansion of Death and Mourning http://www.tandfonline.com/doi/full/10.1080/01972243.2013.777300
+
+
+
+
+# Data joins and comparisons
+
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2773949/
+
+> Record linkages with national databases are essential for accurate prevalence estimates from disease registries, and the SSDMF is an inexpensive means to supplement linkages with the NDI to maximize death ascertainment.
+
