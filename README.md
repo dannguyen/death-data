@@ -5,10 +5,6 @@
   url: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
 - title: Fatality Analysis Reporting System
   url: http://www.nhtsa.gov/FARS
-- title: NY Work-Related fatalities
-  url: https://www.health.ny.gov/environmental/investigations/face/
-- title: OSHA Work-Related fatalities
-  url: https://www.osha.gov/dep/fatcat/dep_fatcat_archive.html
 - title: CDC Mortality Data
   url: http://www.cdc.gov/nchs/nvss/deaths.htm
   related:

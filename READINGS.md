@@ -1,5 +1,5 @@
 
-
+[David Simon Talks About Where the Baltimore Police Went Wrong]
 http://www.vice.com/en_se/read/david-simon-talks-about-where-the-baltimore-police-went-wrong-429
 
 > The second thing Marty did, in order to be governor, involves the stats themselves. In the beginning, under Norris, he did get a better brand of police work and we can credit a legitimate 12 to 15 percent decline in homicides. Again, that was a restoration of an investigative deterrent in the early years of that administration. But it wasn't enough to declare a Baltimore Miracle, by any means.
@@ -39,3 +39,29 @@ the 40th Precinct reveals a swirl of deeper dysfunction.
 
 
 
+
+
+https://www.propublica.org/getinvolved/item/how-to-investigate-coroners-and-medical-examiners
+
+> A key concern of NAME is how many autopsies doctors are doing. The worry is that doctors start making errors start when they try to work too fast, or for too many hours in a row. The association recommends that doctors do no more than 250 autopsies per year, and 325 at the absolute maximum.
+
+> But there are doctors who do 400 or more autopsies on an annual basis. Find out if doctors in your area are taking on more cases than NAME says is advisable.
+
+> Caseload information should be public record in your jurisdiction, but be aware: Some offices can't -- or don't -- track autopsies on a doctor-by-doctor basis. That could be worth exploring, as well.
+
+
+http://projects.propublica.org/forensics/
+
+https://www.propublica.org/article/the-hardest-cases-when-children-die-justice-can-be-elusive
+
+
+-----------
+
+http://flowingdata.com/2016/01/19/how-you-will-die/
+
+http://flowingdata.com/2016/01/05/causes-of-death/
+
+
+-----------
+
+http://www.newyorker.com/magazine/2009/09/07/trial-by-fire
